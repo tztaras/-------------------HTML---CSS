@@ -1,0 +1,28 @@
+body {
+    background: rgb(245, 238, 238);
+}
+
+.container {
+    margin: auto;
+    background: rgb(0, 0, 0);
+    max-width: 800px;
+    /* border-style: 20px solid white; */
+}
+
+div p {
+    background: rgb(255, 255, 255);
+    margin: auto;
+    max-width: 800px;
+    text-align: justify;
+    background-image: url(./img/vilshankaa_shop_cat.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-size: 5px;
+    font-weight: 800;
+    /* text-decoration: line-through; */
+    line-height: 4px;
+    /* color: transparent; */
+    /* -webkit-background-clip: text; */
+    /* border-style: 3px dotted white; */
+}
