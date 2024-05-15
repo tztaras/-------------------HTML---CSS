@@ -21,10 +21,10 @@ div p {
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    font-size: 5px;
+    font-size: 10px;
     font-weight: 800;
     /* text-decoration: line-through; */
-    line-height: 4px;
+    line-height: 8px;
     /* color: transparent; */
     /* -webkit-background-clip: text; */
     /* border-style: 3px dotted white; */
